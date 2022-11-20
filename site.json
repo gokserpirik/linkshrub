@@ -1,0 +1,44 @@
+{
+    "name": "Gökser Pirik",
+    "logo": "https://media-exp1.licdn.com/dms/image/D4D03AQE_W2Gt1fXsgQ/profile-displayphoto-shrink_800_800/0/1665867391863?e=1674086400&v=beta&t=Tbx_8kK7pf7_hEDKU8Lgku4yc40r7L-5IDH02HYk5kY",
+    "islogoalink": true,
+    "imageislogo": false,
+    "cropimagetosquare": false,
+    "description": "Add your logo to public folder and edit site.json. Your link page is ready!",
+    
+    "gradientcolors":[
+        "",
+        ""
+    ],
+
+    "cardcolor": "",
+
+    "cardtextcolor": "",
+
+    "socials":{
+        "linkedin": "https://www.linkedin.com/in/gokserpirik/",
+        "instagram": "https://www.instagram.com/g.cr2/",
+        "github": "https://github.com/gokserpirik",
+        "twitter": ""
+    },
+    "links": [
+        {
+            "name": "I Recreated THY LinkedIn Branding",
+            "href": "https://medium.com/@gokser/i-redesigned-turkish-airlines-linkedin-branding-ae8b4648419c?source=user_profile---------0----------------------------",
+            "rel": "nofollow",
+            "target": "_blank"
+        },
+        {
+            "name": "Adobe Bought Figma: Is It Good?",
+            "href": "https://medium.com/counterarts/adobe-bought-figma-is-it-good-c2704a4d8634?source=user_profile---------1----------------------------",
+            "rel": "nofollow",
+            "target": "_blank"
+        },
+        {
+            "name": "The Research Behind My New LinkedIn Cover",
+            "href": "https://medium.com/counterarts/the-search-behind-my-new-linkedin-cover-2907c1450fd4?source=user_profile---------2----------------------------",
+            "rel": "nofollow",
+            "target": "_blank"
+        }
+    ]
+}
